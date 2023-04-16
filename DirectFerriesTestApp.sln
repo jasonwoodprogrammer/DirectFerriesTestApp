@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Direct Ferries Test App", "Direct Ferries Test App\Direct Ferries Test App.csproj", "{589380CE-52D7-4323-A516-76FCC6E50A8F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Direct Ferries Test AppTests", "Direct Ferries Test AppTests\Direct Ferries Test AppTests.csproj", "{37031E1F-49BC-4314-84FC-92288BECBD8F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{589380CE-52D7-4323-A516-76FCC6E50A8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{589380CE-52D7-4323-A516-76FCC6E50A8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{589380CE-52D7-4323-A516-76FCC6E50A8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{589380CE-52D7-4323-A516-76FCC6E50A8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37031E1F-49BC-4314-84FC-92288BECBD8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37031E1F-49BC-4314-84FC-92288BECBD8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37031E1F-49BC-4314-84FC-92288BECBD8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37031E1F-49BC-4314-84FC-92288BECBD8F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5CED560E-4941-4FCA-A35B-E5880F293A79}
+	EndGlobalSection
+EndGlobal
